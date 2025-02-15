@@ -1,0 +1,18 @@
+O projeto é um programa em C# dotnet 8.0, em ambiente Visual Studio.
+
+OK 1. A temperatura na tela Previsão do Tempo está em Fahrenheit, alterar para Celcius;
+OK 2. A previsão mostra 5 dias a partir do dia seguinte, ajustar para aparecer a previsão de 7 dias incluindo o dia atual;
+OK 3. O clima "Raining" foi adicionado na API, mas não está aparecendo o ícone no frontend;
+OK 4. Adicionar uma rota na API que recebe um range de datas e retorna uma lista do clima com somente temperatura e clima;
+OK 5. Implementar a tela Calendário, com a previsão do mês atual.
+
+Bônus:
+OK 1. Os climas estão em inglês, apresentar no frontend em português;
+OK 2. Apresentar os dias da semana na Previsão do Tempo;
+OK 3. Apresentar os dias da semana no Calendário;
+OK 4. Alterar a cor dos ícones para #B4EEFA. - na verdade estarei usando cores conforme o clima.
+OK 5. Integrar o backend com alguma API gratuita. (Ex. EMBRAPA)
+
+
+Longitude -45.9009
+Latitude -23.2237
